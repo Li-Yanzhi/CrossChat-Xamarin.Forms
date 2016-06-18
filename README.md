@@ -1,7 +1,7 @@
 CrossChat
 ============
 
-Want to learn a new technology\framework\language\etc ? - write a chat app! So did I. This app allows anyone to chat (and even to send images!) in the global chat room on his **WP8**, **iOS** or **Android** smartphone.
+Want to learn a new technology/framework/language/etc ? - write a chat app! So did I. This app allows anyone to chat (and even to send images!) in the global chat room on his **WP8**, **iOS** or **Android** smartphone.
   
 Server side is built using **DDD** approach, data is stored in SQL using Entity Framework Code First, and transmitted using low level sockets (I created my own WCF :)
 
